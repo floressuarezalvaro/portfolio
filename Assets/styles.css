@@ -4,4 +4,6 @@
 #compImage {
   max-width: 80%;
   height: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
