@@ -5,13 +5,16 @@
   height: 180px;
 }
 
+.picSection {
+  height: 350px;
+}
+
 #compImage {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   padding-top: 20px;
 }
 
-.picSection {
-  height: 350px;
-  position: center;
+#ytPic {
+  margin-top: 15%;
 }
