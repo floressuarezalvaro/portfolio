@@ -2,7 +2,7 @@
   background-color: #f0f0f0;
 }
 .descripSec {
-  height: 175px;
+  height: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -10,14 +10,13 @@
 
 .picSection {
   height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #compImage {
   max-width: 80%;
   height: auto;
   padding-top: 20px;
-}
-
-#ytPic {
-  margin-top: 15%;
 }
